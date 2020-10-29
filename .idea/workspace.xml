@@ -6,22 +6,11 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="752ab95b-c9ca-419f-8946-54affdabed32" name="Default Changelist" comment=".">
-      <change beforePath="$PROJECT_DIR$/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
-    </list>
+    <list default="true" id="752ab95b-c9ca-419f-8946-54affdabed32" name="Default Changelist" comment="." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +33,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -71,6 +61,7 @@
       <workItem from="1603889133966" duration="821000" />
       <workItem from="1603962590525" duration="99000" />
       <workItem from="1603962858904" duration="1273000" />
+      <workItem from="1603971100142" duration="502000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1603887982653</created>
@@ -93,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603963266691</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=".">
+      <created>1603971366520</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603971366520</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +114,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="23" width="1280" height="777" key="#Notifications" timestamp="1603971455067">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="0" y="23" width="1280" height="777" key="#Notifications/0.23.1280.777@0.23.1280.777" timestamp="1603971455067" />
     <state x="108" y="139" width="1072" height="561" key="DiffContextDialog" timestamp="1603966353147">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
@@ -136,13 +138,17 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="532" y="341" key="VCS.EditChangelistDialog/0.23.1280.777@0.23.1280.777" timestamp="1603888617006" />
-    <state x="244" y="159" key="Vcs.Push.Dialog.v2" timestamp="1603966625558">
+    <state x="244" y="159" key="Vcs.Push.Dialog.v2" timestamp="1603971503459">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="244" y="159" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1603966625558" />
+    <state x="244" y="159" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1603971503459" />
     <state x="457" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603888984723">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="457" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.777@0.23.1280.777" timestamp="1603888984723" />
+    <state x="422" y="270" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603971590711">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="422" y="270" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1280.777@0.23.1280.777" timestamp="1603971590711" />
   </component>
 </project>
