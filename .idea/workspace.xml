@@ -62,7 +62,7 @@
       <workItem from="1603889133966" duration="821000" />
       <workItem from="1603962590525" duration="99000" />
       <workItem from="1603962858904" duration="1273000" />
-      <workItem from="1603971100142" duration="1630000" />
+      <workItem from="1603971100142" duration="1957000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1603887982653</created>
@@ -106,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603972156288</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary=".">
+      <created>1603973594318</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603973594318</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,10 +144,10 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="108" y="139" width="1072" height="561" key="DiffContextDialog/0.23.1280.777@0.23.1280.777" timestamp="1603966353147" />
-    <state x="524" y="323" key="Github.ShareDialog" timestamp="1603963284632">
+    <state x="524" y="323" key="Github.ShareDialog" timestamp="1603973612994">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="524" y="323" key="Github.ShareDialog/0.23.1280.777@0.23.1280.777" timestamp="1603963284632" />
+    <state x="524" y="323" key="Github.ShareDialog/0.23.1280.777@0.23.1280.777" timestamp="1603973612994" />
     <state x="455" y="131" key="Github.UntrackedFilesDialog" timestamp="1603887772181">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
@@ -153,10 +160,10 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="532" y="341" key="VCS.EditChangelistDialog/0.23.1280.777@0.23.1280.777" timestamp="1603888617006" />
-    <state x="244" y="159" key="Vcs.Push.Dialog.v2" timestamp="1603972181564">
+    <state x="244" y="159" key="Vcs.Push.Dialog.v2" timestamp="1603973605822">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="244" y="159" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1603972181564" />
+    <state x="244" y="159" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1603973605822" />
     <state x="457" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603888984723">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
